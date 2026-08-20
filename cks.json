@@ -24,12 +24,12 @@
     "keepAliveIntervalMinutes": 5
   },
   {
-    "id": "canva_pro",
-    "name": "Canva Pro Equipe",
-    "url": "https://www.canva.com",
+    "id": "hbo_pro",
+    "name": "HBO Max",
+    "url": "https://www.hbomax.com",
     "cookies": "__cf_bm=...; _ga=...; auth_token=...",
-    "category": "Ferramentas",
-    "description": "Ferramenta de Design Pro",
+    "category": "Streaming",
+    "description": "HBO Max Premium",
     "colorHex": "#00C4CC",
     "status": "active",
     "keepAliveEnabled": false,
