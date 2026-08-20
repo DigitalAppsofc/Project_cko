@@ -1,1 +1,14 @@
-
+{
+  "acessos": [
+    {
+      "usuario": "Digital Apps",
+      "validade": "2026-12-31T23:59:59-03:00",
+      "key": "DIGITAL-8X4K-92MN-7QPL"
+    },
+    {
+      "usuario": "Usuario 02",
+      "validade": "2026-09-20T23:59:59-03:00",
+      "key": "APP-73KL-9XPM-22QR"
+    }
+  ]
+}
