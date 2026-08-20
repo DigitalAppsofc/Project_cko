@@ -2,8 +2,8 @@
   {
     "id": "netflix_premium",
     "name": "Netflix Premium",
-    "url": "https://www.netflix.com/browse",
-    "cookies": "NetflixId=v%3D3%26ct%3DBQAOAAEBEK...; SecureNetflixId=v%3D3%26mac%3DAQEAEW...",
+    "url": "https://www.netflix.com",
+    "cookies": ".netflix.com TRUE / FALSE 1817469548 NetflixId v=3&ct=BgjHlOvcAxL6AgYkvbUQv02MyXopQHhGEKpt85xfcHMBK6pcjpHQp5TqGngSzEoCGEl5vy6oDs4hbGa1fAhcBDDLu3xZgV-Vm-0Uuia6DIrpz9jXcKMA11viIUYagjf1c2B724m8MC7gWo2VXBMLxk1JQMm4rxdrDTD1CQrTPEV_svhycqYvKlPG7UUM-0VIlxsHdkK98PH6w5f0n2cnTN09rp3DwupFy8ugc-i8OWv26KhvdFEpIUTa-8zPuJECs9ZLbqUs92WumWR1xrNRu1OGeFVhTOSyHSOYNz_mCNEzn0Fbo-Xz5eNZ34k03cYVYIRsZJTQC9to2bOrZAruSG0fD7Ip32BDuPZn9piL8lJ3S_QcFZ1x7AVZkS_pvJ3OhoIN2ZDfDAUxsLqy8GxxvC-mMTBhE9gpHeDVmSpOy7CJecu85QpoO3H_b951qXUQaOw3KRjE5Ev8L3Q-Eo49kQVdH_moOglmZXOsSrN3-c5W3SlHwqEQBh3smVyRsTsJEQdsdxgGIg4KDC7jkPMXbRN_1mdQtw..&pg=6XQYW53I6NHGFPRRPHRFYR7UHU&ch=AQEAEAABABSiDpALNDJ2H_xlmiZjZtMobwsOHfx2qBg.",
     "category": "Streaming",
     "description": "Acesso oficial streaming 4K Ultra HD",
     "colorHex": "#E50914",
