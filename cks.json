@@ -15,7 +15,7 @@
     "id": "prime_video",
     "name": "Prime Video",
     "url": "https://www.primevideo.com",
-    "cookies": "session-id=123-4567890-1234567; session-id-time=2082787201l; ubid-main=123-4567890-1234567; at-main=Atza|...",
+    "cookies": ".primevideo.com\tTRUE\t/\tTRUE\t1815677518\tat-main-av\t[VALOR]\n.primevideo.com\tTRUE\t/\tFALSE\t1815677519\ti18n-prefs\tUSD\n.primevideo.com\tTRUE\t/\tFALSE\t1815677519\tlc-main-av\tpt_BR\n.primevideo.com\tTRUE\t/\tTRUE\t1815677518\tsess-at-main-av\t[VALOR]\n.primevideo.com\tTRUE\t/\tTRUE\t1815677519\tubid-main-av\t[VALOR]\n.primevideo.com\tTRUE\t/\tTRUE\t1786733519\tav-profile\t[VALOR]\napx-security-na.primevideo.com\tFALSE\t/\tFALSE\t1814381537\tcsm-hit\t[VALOR]\n.primevideo.com\tTRUE\t/\tTRUE\t1818701535\tsession-id-time\t2082787201l\n.primevideo.com\tTRUE\t/\tTRUE\t1815699322\tsession-token\t[VALOR]\n.primevideo.com\tTRUE\t/\tTRUE\t1815699322\tx-main-av\t[VALOR]\n.primevideo.com\tTRUE\t/\tTRUE\t1818723339\tsession-id\t[VALOR]\n.primevideo.com\tTRUE\t/\tFALSE\t1815700322\tav-timezone\tAmerica/Sao_Paulo",
     "category": "Streaming",
     "description": "Filmes e Séries Prime",
     "colorHex": "#00A8E1",
