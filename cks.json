@@ -1,1 +1,38 @@
-
+[
+  {
+    "id": "netflix_premium",
+    "name": "Netflix Premium",
+    "url": "https://www.netflix.com/browse",
+    "cookies": "NetflixId=v%3D3%26ct%3DBQAOAAEBEK...; SecureNetflixId=v%3D3%26mac%3DAQEAEW...",
+    "category": "Streaming",
+    "description": "Acesso oficial streaming 4K Ultra HD",
+    "colorHex": "#E50914",
+    "status": "active",
+    "keepAliveEnabled": true,
+    "keepAliveIntervalMinutes": 5
+  },
+  {
+    "id": "prime_video",
+    "name": "Prime Video",
+    "url": "https://www.primevideo.com",
+    "cookies": "session-id=123-4567890-1234567; session-id-time=2082787201l; ubid-main=123-4567890-1234567; at-main=Atza|...",
+    "category": "Streaming",
+    "description": "Filmes e Séries Prime",
+    "colorHex": "#00A8E1",
+    "status": "active",
+    "keepAliveEnabled": true,
+    "keepAliveIntervalMinutes": 5
+  },
+  {
+    "id": "canva_pro",
+    "name": "Canva Pro Equipe",
+    "url": "https://www.canva.com",
+    "cookies": "__cf_bm=...; _ga=...; auth_token=...",
+    "category": "Ferramentas",
+    "description": "Ferramenta de Design Pro",
+    "colorHex": "#00C4CC",
+    "status": "active",
+    "keepAliveEnabled": false,
+    "keepAliveIntervalMinutes": 10
+  }
+]
