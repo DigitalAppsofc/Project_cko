@@ -19,7 +19,7 @@
     "category": "Streaming",
     "description": "Filmes e Séries Prime",
     "colorHex": "#00A8E1",
-    "status": "offline",
+    "status": "disabled",
     "keepAliveEnabled": true,
     "keepAliveIntervalMinutes": 5
   },
