@@ -45,7 +45,7 @@
     "category": "Streaming",
     "description": "Crunchyroll Premium",
     "colorHex": "#00C4CC",
-    "status": "active",
+    "status": "disabled",
     "keepAliveEnabled": true,
     "keepAliveIntervalMinutes": 5
   },
@@ -58,7 +58,7 @@
     "category": "Streaming",
     "description": "Spotify Premium",
     "colorHex": "#00C4CC",
-    "status": "active",
+    "status": "disabled",
     "keepAliveEnabled": true,
     "keepAliveIntervalMinutes": 5
   },
@@ -71,7 +71,7 @@
     "category": "Streaming",
     "description": "Claro TV",
     "colorHex": "#00C4CC",
-    "status": "active",
+    "status": "disabled",
     "keepAliveEnabled": true,
     "keepAliveIntervalMinutes": 5
   },
@@ -84,7 +84,7 @@
     "category": "Streaming",
     "description": "Sky+ Premium",
     "colorHex": "#00C4CC",
-    "status": "active",
+    "status": "disabled",
     "keepAliveEnabled": true,
     "keepAliveIntervalMinutes": 5
   },
@@ -97,7 +97,7 @@
     "category": "Streaming",
     "description": "Globo play Premium",
     "colorHex": "#00C4CC",
-    "status": "active",
+    "status": "disabled",
     "keepAliveEnabled": true,
     "keepAliveIntervalMinutes": 5
   }
