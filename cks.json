@@ -45,7 +45,7 @@
     "category": "Streaming",
     "description": "Crunchyroll Premium",
     "colorHex": "#FFA500",
-    "status": "disabled",
+    "status": "active",
     "keepAliveEnabled": true,
     "keepAliveIntervalMinutes": 5
   },
