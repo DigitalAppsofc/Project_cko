@@ -4,16 +4,22 @@
       "usuario": "Digital Apps",
       "validade": "2026-12-31T23:59:59-03:00",
       "key": "DIGITAL"
+      "arquivo": "false",
+      "cdgt": "sem arquivo"
     },
     {
       "usuario": "Teteus Vendas",
       "validade": "2026-09-01T23:59:59-03:00",
       "key": "MATEUS-22QR"
+      "arquivo": "false",
+      "cdgt": "sem arquivo"
     },
     {
       "usuario": "Vick",
       "validade": "2026-09-20T23:59:59-03:00",
       "key": "VICK-22RS"
+      "arquivo": "false",
+      "cdgt": "sem arquivo"
     }
   ]
 }
