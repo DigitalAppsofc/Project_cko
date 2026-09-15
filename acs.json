@@ -10,8 +10,9 @@
     },
     {
       "usuario": "Teteus Vendas",
-      "validade": "2026-09-01T23:59:59-03:00",
-      "key": "MATEUS-22QR"
+      "validade": "2026-12-01T23:59:59-03:00",
+      "key": "MATEUS-21QR"
+      "admin": "false"
       "arquivo": "false",
       "cdgt": "sem arquivo"
     },
